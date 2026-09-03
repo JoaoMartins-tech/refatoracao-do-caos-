@@ -19,7 +19,7 @@ Preparar o projeto para futura migração para React, TypeScript e Vite.
 O que você deve fazer
 Organizar arquivos → separar HTML, CSS e JS em arquivos próprios.
 
-Usar tags semânticas → substituir <div> genéricas por <header>, <main>, <section>, <footer>.
+Usar tags semânticas → substituir div genéricas por header, main, section, footer.
 
 Padronizar classes → corrigir nomes inconsistentes (card1, card_2, Card3).
 
