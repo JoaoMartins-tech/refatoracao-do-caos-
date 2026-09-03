@@ -3,6 +3,8 @@ Landing Page Bagunçada
 Este repositório contém uma landing page completa em HTML, CSS e JavaScript, propositalmente desorganizada.
 O objetivo é servir como exercício prático de refatoração e preparar o projeto para futura migração para React, TypeScript e Vite.
 
+---
+
 Objetivos
 Receber um projeto caótico e transformá-lo em código organizado e profissional.
 
@@ -11,6 +13,8 @@ Aplicar boas práticas de HTML, CSS e JavaScript.
 Melhorar acessibilidade e SEO.
 
 Preparar o projeto para futura migração para React, TypeScript e Vite.
+
+---
 
 O que você deve fazer
 Organizar arquivos → separar HTML, CSS e JS em arquivos próprios.
@@ -27,6 +31,8 @@ Remover duplicações → funções repetidas e variáveis mal nomeadas.
 
 Documentar → comentários claros e úteis.
 
+---
+
 Dicas rápidas
 CSS inline → mova para style.css.
 
@@ -37,6 +43,8 @@ Inputs → sempre com label.
 Imagens → sempre com alt.
 
 Comentários → explique o porquê, não o óbvio.
+
+---
 
 Próxima etapa
 Após corrigir o repositório, você deverá:
